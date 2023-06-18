@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **c#**
 
-- 🌱 I’m currently learning **CSS**
+- 🌱 I’m currently learning **CSS and REACT**
 
 - 📫 How to reach me **wtherxy@gmail.com**
 
